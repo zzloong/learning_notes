@@ -1,17 +1,14 @@
-# learn-github,markdown,mysql ursl and notes
+# learn notes about github , markdown , mysql ! 
 
-##Github 
-###
- - [Git Pro][2]
- - [Test][3]
+## Github 
+ - [廖雪峰][2]
+ - [Pro Git][3]
 
-##
-- [Cmd Makrdown][12]
-
-###
-- [Markdown code][9]
-- [1][10]
-- [11][11]
+## MarkDown
+- [Cmd Makrdown 在线编辑阅读器][12]
+- [Markdown 快速入门][9]
+- [Markdown 语法说明][10]
+- [Markdown 入门][11]
 
 ----------
 [2]:http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
