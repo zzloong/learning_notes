@@ -1,14 +1,14 @@
 # learn notes about github , markdown , mysql ! 
 
 ## Github 
- - [廖雪峰][1]
- - [Pro Git][2]
+> - [廖雪峰][1]
+> - [Pro Git][2]
 
 ## MarkDown
-- [*Cmd Makrdown 在线编辑阅读器*][3]
-- [Markdown 快速入门][4]
-- [Markdown 语法说明][5]
-- [Markdown 入门][6]
+> - [*Cmd Makrdown 在线编辑阅读器*][3]
+> - [Markdown 快速入门][4]
+> - [Markdown 语法说明][5]
+> - [Markdown 入门][6]
 
 ----------
 [1]:http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
