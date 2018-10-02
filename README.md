@@ -3,9 +3,11 @@
 ## Github 
 > - [廖雪峰][1]
 > - [Pro Git][2]
+> - [Git 简易指南][7]
 
 ## MarkDown
 > - [*Cmd Makrdown 在线编辑阅读器*][3]
+> - [**Learning-Markdown(Markdown 入门参考)**][8]
 > - [Markdown 快速入门][4]
 > - [Markdown 语法说明][5]
 > - [Markdown 入门][6]
@@ -17,4 +19,6 @@
 [4]:http://www.oschina.net/question/100267_75314
 [5]:http://www.markdown.cn
 [6]:http://www.360doc.com/content/13/1119/13/3300331_330476656.shtml
+[7]:http://www.bootcss.com/p/git-guide/
+[8]:http://itmyhome.com/markdown/index.html
 my learning skills tree >
