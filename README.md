@@ -1,5 +1,10 @@
 # learn notes about github , markdown , mysql ! 
 
+## Python
+> - [利用Pyinstaller离线打包exe程序][9]
+
+
+
 ## Github 
 > - [廖雪峰][1]
 > - [Pro Git][2]
@@ -21,4 +26,5 @@
 [6]:http://www.360doc.com/content/13/1119/13/3300331_330476656.shtml
 [7]:http://www.bootcss.com/p/git-guide/
 [8]:http://itmyhome.com/markdown/index.html
+[9]:./pyinstaller/pyinstaller.md
 my learning skills tree >
